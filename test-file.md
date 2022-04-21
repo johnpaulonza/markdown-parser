@@ -1,8 +1,4 @@
 # Title
 
-1. list
-2. list2 
-
-[link2](https://something.com)
-
-[link3](some-page.html)
+[link1](https://something.com)
+[link2](some-thing.html)
