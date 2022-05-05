@@ -8,8 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MarkdownParseTest {
-    @Test   //Tells vscode to ignore missing main and that it's a test?
-    public void addition(){     //Header of a test
+    @Test   //Tells vscode to ignore missing main and that it's a test? 
+    public void addition(){     //Header of a test.
         assertEquals(2, 1+1);   //Test, compare if 2 is equal to 1 + 1
     }
 
